@@ -9,11 +9,11 @@
 **Link(s) to work**: 
 
 
-### Day 1: June 27, Monday
+### Day 2: February 20, TUESDAY 2019
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Signed up also for css curriculum and javascript curriculum.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I need to be able to write vanilla js and css from getgo so i can combine with html to make great websites
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
